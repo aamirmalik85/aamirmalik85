@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aamirmalik85
 - 👀 I’m interested in Embedded Systems programming
 - 🌱 I’m currently learning Gen AI
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on AI/ML/GEN AI/RAG/Hackathons/Leetcode
 - 📫 How to reach me  at www.linkedin.com/in/aamir-nawaz-malik-92bb0493
 - 😄 Pronouns: Mr. Aamir
 
